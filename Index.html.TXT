@@ -1,5 +1,5 @@
 <html>
 	<body>
-		<h1>First page</h1>
+		<h1>First page index</h1>
 	</body>
 </html>
